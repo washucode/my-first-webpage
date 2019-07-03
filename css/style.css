@@ -1,0 +1,32 @@
+
+h1 {
+  color:#ffffff;
+  text-align: center;
+    background-color: #000000;
+    background-size: contain;
+}
+h2{
+  color:#000000;
+  font-style: italic;
+  text-align: center;
+
+}
+p{
+  font-family: sans-serif;
+  text-align: center;
+}
+ul{
+  text-align: center;
+  line-height: 40px;
+}
+li{
+  text-decoration: none;
+  list-style-position: inside;
+}
+strong{
+  font-style: italic;
+}
+
+em{
+  font-weight: bold;
+}

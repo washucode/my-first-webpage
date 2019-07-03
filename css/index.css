@@ -1,0 +1,29 @@
+body{
+
+}
+h1{
+  color: #000000;
+  font-family:fantasy;
+  font-stretch: ultra-expanded;
+  text-align: center;
+}
+h2{
+  color: #000000;
+  font-family:fantasy;
+  font-stretch: ultra-expanded;
+  text-align: center;
+}
+p{
+  border-color: #000000;
+  text-align: center;
+}
+ul{
+  line-height:25px;
+  text-align: center;
+}
+li{
+  list-style-position: inside;
+}
+img{
+  align-items: center;
+}
